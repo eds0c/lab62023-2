@@ -1,0 +1,7 @@
+com\example\clase10crud\beans\Employee.class
+com\example\clase10crud\servlets\EmployeeServlet.class
+com\example\clase10crud\beans\Title.class
+com\example\clase10crud\daos\TitleDao.class
+com\example\clase10crud\servlets\MainServlet.class
+com\example\clase10crud\servlets\TitleServlet.class
+com\example\clase10crud\daos\EmployeeDao.class
